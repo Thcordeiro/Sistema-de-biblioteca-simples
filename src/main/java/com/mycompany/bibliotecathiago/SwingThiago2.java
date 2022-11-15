@@ -24,9 +24,9 @@ public class SwingThiago2 extends javax.swing.JFrame {
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
-        ruanLogin = new javax.swing.JTextField();
+        thiagoLogin = new javax.swing.JTextField();
         jButton1 = new javax.swing.JButton();
-        ruanSenha = new javax.swing.JPasswordField();
+        thiagoSenha = new javax.swing.JPasswordField();
         jLabel3 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
